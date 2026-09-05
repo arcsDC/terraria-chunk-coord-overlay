@@ -1,0 +1,5 @@
+version=1.0.0
+displayName=Chunk Coord Overlay
+author=TerrariaModder
+description=A tModLoader mod that displays the player's current chunk coordinates in the top-left corner for easier world navigation.
+modDependencies=
